@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-bank-page/static/css/main.0f13161b.chunk.css",
+    "main.js": "/react-bank-page/static/js/main.b374bd5b.chunk.js",
+    "main.js.map": "/react-bank-page/static/js/main.b374bd5b.chunk.js.map",
+    "runtime~main.js": "/react-bank-page/static/js/runtime~main.62a95d8f.js",
+    "runtime~main.js.map": "/react-bank-page/static/js/runtime~main.62a95d8f.js.map",
+    "static/js/2.12b9b962.chunk.js": "/react-bank-page/static/js/2.12b9b962.chunk.js",
+    "static/js/2.12b9b962.chunk.js.map": "/react-bank-page/static/js/2.12b9b962.chunk.js.map",
+    "index.html": "/react-bank-page/index.html",
+    "precache-manifest.398079085c08b19f323d4198962f92ad.js": "/react-bank-page/precache-manifest.398079085c08b19f323d4198962f92ad.js",
+    "service-worker.js": "/react-bank-page/service-worker.js",
+    "static/css/main.0f13161b.chunk.css.map": "/react-bank-page/static/css/main.0f13161b.chunk.css.map"
+  }
+}
